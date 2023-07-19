@@ -52,25 +52,31 @@ php artisan key:generate
 php artisan migrate
 ```
 
-8. Install NPM dependencies:
+8. Buat symbolic link untuk menyimpan file media:
+
+```bash
+php artisan storage:link
+```
+
+9. Install NPM dependencies:
 
 ```bash
 npm install
 ```
 
-9. Jalankan NPM build:
+10. Jalankan NPM build:
 
 ```bash
 npm run build
 ```
 
-10. Mulai server pengembangan lokal:
+11. Jalankan aplikasi:
 
 ```bash
 php artisan serve
 ```
 
-11. Kunjungi `http://localhost:8000` pada browser Anda untuk mengakses Responsive Images Demo.
+12. Kunjungi `http://localhost:8000` pada browser Anda untuk mengakses Responsive Images Demo.
 
 ## Penggunaan
 
