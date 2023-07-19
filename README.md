@@ -108,4 +108,4 @@ Proyek Responsive Images Demo menggunakan perpustakaan dan kerangka kerja open-s
 
 ## Kontak
 
-Untuk pertanyaan atau dukungan terkait proyek Responsive Images Demo, silakan hubungi [mailto:tolong@buatin.website](tolong@buatin.website).
+Untuk pertanyaan atau dukungan terkait proyek Responsive Images Demo, silakan hubungi [tolong@buatin.website](mailto:tolong@buatin.website).
