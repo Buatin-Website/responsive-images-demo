@@ -52,13 +52,25 @@ php artisan key:generate
 php artisan migrate
 ```
 
-8. Mulai server pengembangan lokal:
+8. Install NPM dependencies:
+
+```bash
+npm install
+```
+
+9. Jalankan NPM build:
+
+```bash
+npm run build
+```
+
+10. Mulai server pengembangan lokal:
 
 ```bash
 php artisan serve
 ```
 
-9. Kunjungi `http://localhost:8000` pada browser Anda untuk mengakses Responsive Images Demo.
+11. Kunjungi `http://localhost:8000` pada browser Anda untuk mengakses Responsive Images Demo.
 
 ## Penggunaan
 
